@@ -1,0 +1,28 @@
+.stopwatch-container {
+    width: 260px;
+    height: 260px;
+    margin: 100px auto;
+    text-align: center;
+    border-radius: 50%;
+    background-color: mediumturquoise;
+    box-shadow: 3px 8px 10px rgba(72, 209, 204, 0.4);
+    color: whitesmoke;
+    font-size: 70px;
+}
+
+.stopwatch-digits {
+    padding-top: 60px;
+    margin-bottom: -20px;
+}
+
+button {
+    display: inline-block;
+    width: 70px;
+    height: 35px;
+    margin: 0 3px;
+    border-radius: 4px;
+    background-color: orange;
+    color: whitesmoke;
+    font-weight: 500;
+    font-size: 14px;
+}
